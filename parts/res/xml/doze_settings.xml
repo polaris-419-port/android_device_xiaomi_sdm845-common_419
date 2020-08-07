@@ -45,7 +45,6 @@
             android:icon="@drawable/ic_pickup"
             android:title="@string/pick_up_gesture_title"
             android:summary="@string/pick_up_gesture_summary" />
-
     </PreferenceCategory>
 
     <PreferenceCategory
